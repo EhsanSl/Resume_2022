@@ -1,2 +1,3 @@
 ## Resume_2022
-![Resume_2022](images/ResumeJpeg.jpg "Title")
+
+<img src="images/ResumeJpeg.jpg" width=80% >
